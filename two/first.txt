@@ -2,3 +2,5 @@ thisi i sfirst file
 second line
 
 bug fix new line
+
+new new new 
